@@ -3,4 +3,4 @@
 some text
 
 - bullet points
-- 
+- another bullet point
