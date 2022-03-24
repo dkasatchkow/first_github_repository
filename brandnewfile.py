@@ -8,3 +8,6 @@ def another_function(func):
     func()
 
 another_function(print_hello)
+
+
+fdsfsd
